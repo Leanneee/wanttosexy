@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gloryfeel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gloryfeel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gloryfeel.com/collections/all.atom"/>
+  <title>GloryFeel</title>
+  <updated>2016-11-10T07:50:00-06:00</updated>
+  <author>
+    <name>GloryFeel</name>
+  </author>
+  <entry>
+    <id>https://www.gloryfeel.com/products/4259111559</id>
+    <published>2016-11-10T07:50:00-06:00</published>
+    <updated>2016-11-10T07:50:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gloryfeel.com/products/probiotics"/>
+    <title>Probiotics 30 Billion CFU&apos;s</title>
+    <s:type>Capsules</s:type>
+    <s:vendor>GloryFeel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/9589/products/Probiotics_GloryFeel.jpg?v=1534751876" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GloryFeel<br />
+        <strong>Type: </strong>Capsules<br />
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GLORYFEEL – MAKES YOU FEEL BETTER!</p>
+<h2><span style="color: #6aa84f;">Probiotics 30 Billion CFU's, Developed In GERMANY, 18 Most Efficient Strains, Plus Prebiotics For Women and Men, 60 Capsules</span></h2>
+<p><strong>Gloryfeel - Probiotic is the ultimate supplement for your gut flora. Designed by our experts in Germany and produced in America, this is the perfect supplement for all men and women who want a healthy life.</strong></p>
+<p><strong>Developed in Germany</strong></p>
+<p>Gloryfeel's Probiotics supplement is created by Germany's best nutrition experts. We consulted our German research scientists and they carefully designed a product with the most efficient composition. To defend us from all forms of harm, our immune system is in constant need of probiotics. Therefore our specialists put hard work into a product which is 100% designed for you.</p>
+<p><strong>Produced in the USA</strong></p>
+<p>To guarantee best and highest quality and all bacteria cultures are produced in FDA registered and GMP certified facilities. Even if we evolved the product in Germany, to go beyond Gloryfeel's Probiotics had to use premium american bacteria strains.</p>
+<p><strong>30 Billion CFU's and 15 Strains</strong></p>
+<p>The result of German quality research is, that 30 Billion CFU's is enough, but not too much, and the 18 diverse strains are both the most essential and proven to be good. Instead of capsules (96% of the CFU's are killed by your stomach acid if you take capsules!) we developed special delayed release tablets.</p>
+<p><strong>Natural and Organic</strong></p>
+<p>All used bacteria strains are naturally in your body and the tablets are vegan, vegetarian, kosher and gluten free.</p>
+<p> </p>
+<p><strong>For the list of ingredients, please see the label which is available under "photos"</strong></p>
+<p> </p>
+<p>Trust in Probiotics by Glorfyeel, because</p>
+<p>GLORYFEEL - MAKES YOU FEEL BETTER</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gloryfeel.com/products/4259111559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>GF-probiotic</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gloryfeel.com/products/449483065</id>
+    <published>2015-04-07T04:48:00-05:00</published>
+    <updated>2015-04-07T04:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gloryfeel.com/products/colon"/>
+    <title>Colon Detox - 15 Days Quick Cleanse</title>
+    <s:type>Capsules</s:type>
+    <s:vendor>GLORYFEEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/9589/products/Colon_Detox_1er.jpg?v=1454411825" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GLORYFEEL<br />
+        <strong>Type: </strong>Capsules<br />
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><a class="a-link-normal mt-table-main" target="_blank" rel="noopener noreferrer" href="http://www.amazon.com/dp/B00TPVADYI">Colon Cleanser &amp; Detox for Weight Loss. 15 Day Extra Strength Detox Cleanse with Probiotic for Constipation Relief. Pure Colon Detox Pills for Men &amp; Women. Flush Toxins, Boost Energy. Safe &amp; Effectiv</a>e<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gloryfeel.com/products/449483065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>colon-us</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
